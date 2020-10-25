@@ -21,6 +21,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Yamllint fixes
 - MDL fixes
 
+### Removed
+
+- Remove Amazon Linux 1 testing
+- Remove EL 6 testing
+
 ## 8.0.2 (2020-09-14)
 
 - jenkins_job: Dont quote param unnecessarily - [@mbaitelman](https://github.com/mbaitelman)
