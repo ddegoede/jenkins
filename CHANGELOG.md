@@ -13,6 +13,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update Changelog to Sous Chefs
 - Update to use Sous Chefs GH workflow
 
+### Fixed
+
+- Yamllint fixes
+
 ## 8.0.2 (2020-09-14)
 
 - jenkins_job: Dont quote param unnecessarily - [@mbaitelman](https://github.com/mbaitelman)
