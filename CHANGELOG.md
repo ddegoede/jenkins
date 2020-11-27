@@ -24,6 +24,14 @@ This file is used to list changes made in each version of the jenkins cookbook.
 - Remove Amazon Linux 1 testing
 - Remove EL 6 testing
 
+## 8.0.4 - *2020-11-24*
+
+- Retry jenkins CLI command without authenticating after receiving an HTTP 401. - [@nuclearsandwich](https://github.com/nuclearsandwich)
+
+## 8.0.3 - *2020-11-23*
+
+- Remove touch command run as root from .war-based service definition - [@davidsainty](https://github.com/davidsainty)
+
 ## 8.0.2 (2020-09-14)
 
 - jenkins_job: Dont quote param unnecessarily - [@mbaitelman](https://github.com/mbaitelman)
